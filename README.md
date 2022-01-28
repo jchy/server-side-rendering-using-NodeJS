@@ -4,6 +4,10 @@ API data fetch and display user data by id
 ```js
   nodemon index.js
 ```
+### Open the browser and go to the following url:~
+```js
+  http://localhost:4000
+```
 ### To see the users data got to following url in your browser:~
 ```js
   http://localhost:4000/users/1
